@@ -100,12 +100,7 @@ Glad to see you here!
 
 ---
 
-## 🏆 Achievements
 
-- Hacktoberfest 2022, 2023, 2024 Digital Swags  
-[![Holopin Badges](https://holopin.io/api/user/board?user=shruti441)](https://holopin.io/@shruti441)
-
----
 
 Show some ❤️ by starring some of my repositories!
 
